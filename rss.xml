@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Percept Sequence]]></title>
+        <description><![CDATA[Percept Sequence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 12:36:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Brave New World: Welcome To 'Percept Sequence' ]]></title>
+            <description><![CDATA[<article><h1>Hello, Brave New World: Welcome To 'Percept Sequence' </h1><p>In artificial intelligence (AI), a percept is an input that an intelligent agent receives at a given moment. The percept sequence is the complete history of every and any percept that has been received. Importantly, a rational agent's choice of action can only depend on its percept sequence and - conversely - not on anything it hasn't perceived. </p></article>]]></description>
+            <link>undefinedhello-brave-new-world-welcome-to-percept-sequence/index.html</link>
+            <guid isPermaLink="false">76481e0b-07db-43d2-bc0a-0fb016603035</guid>
+            <pubDate>Thu, 17 Dec 2015 12:36:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
