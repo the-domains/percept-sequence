@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A blog journey involving artificial intelligence, augmented reality, startups, healthcare, and the future.'
-datePublished: '2015-12-17T12:36:16.718Z'
-dateModified: '2015-12-17T12:36:03.228Z'
+datePublished: '2015-12-17T13:10:53.403Z'
+dateModified: '2015-12-17T13:08:53.125Z'
 title: "Hello, Brave New World: Welcome To 'Percept Sequence'\_"
 author: []
+sourcePath: _posts/2015-12-17-hello-brave-new-world-welcome-to-percept-sequence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-hello-brave-new-world-welcome-to-percept-sequence.md
-published: true
 url: hello-brave-new-world-welcome-to-percept-sequence/index.html
 _type: Article
 
 ---
-# Hello, Brave New World: Welcome To 'Percept Sequence' 
+# Hello, Brave New World: Welcome To 'Percept Sequence' ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87913735-e258-49c6-ae3a-fb680a2866e3.jpg)
 
 In artificial intelligence (AI), a **percept** is an input that an intelligent agent receives at a given moment. The **percept sequence **is the complete history of every and any percept that has been received. Importantly, a _rational agent's choice of action can only depend on its percept sequence_ and - conversely - not on anything it hasn't perceived. 
 
@@ -32,6 +32,6 @@ Nowadays, however, AI is the "cool" concept of the era. It takes only a brief gl
 
 **Artificial intelligence** is simultaneously captivating _and_ extremely important for the future of humanity. **Augmented reality (AR) - **juxtaposing virtual objects onto a perception of the real world to create the illusion of physical objects - also fits these two criteria. **Startups **are the most important way that these two ideas will be executed. Lastly, **healthcare **will see radical transformation and the very concept of doctors will be shaken at its core by the interaction of these elements. 
 
-These topics are what this blog, **Percept Sequence,** is about.
+These topics are what this blog, **Percept Sequence,** is about. 
 
 [0]: https://thegrid.io/
