@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A blog journey involving artificial intelligence, augmented reality, startups, healthcare, and the future.'
-datePublished: '2015-12-17T13:10:53.403Z'
-dateModified: '2015-12-17T13:08:53.125Z'
+datePublished: '2015-12-17T13:12:41.753Z'
+dateModified: '2015-12-17T13:12:35.172Z'
 title: "Hello, Brave New World: Welcome To 'Percept Sequence'\_"
 author: []
 sourcePath: _posts/2015-12-17-hello-brave-new-world-welcome-to-percept-sequence.md
@@ -22,7 +22,7 @@ url: hello-brave-new-world-welcome-to-percept-sequence/index.html
 _type: Article
 
 ---
-# Hello, Brave New World: Welcome To 'Percept Sequence' ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87913735-e258-49c6-ae3a-fb680a2866e3.jpg)
+# Hello, Brave New World: Welcome To 'Percept Sequence' ![Galaxies as made of many stars as are minds made of many thoughts. Is it possible for humanity to build something capable of making a galaxy?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87913735-e258-49c6-ae3a-fb680a2866e3.jpg)
 
 In artificial intelligence (AI), a **percept** is an input that an intelligent agent receives at a given moment. The **percept sequence **is the complete history of every and any percept that has been received. Importantly, a _rational agent's choice of action can only depend on its percept sequence_ and - conversely - not on anything it hasn't perceived. 
 
