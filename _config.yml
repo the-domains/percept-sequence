@@ -1,0 +1,28 @@
+name: Percept Sequence
+favicon: null
+layout_spectrum: 0.49073069728910923
+typography_spectrum: 0.09608872258104384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8906290389131755
+  lightness: 0.41741383355110884
+  saturation: 0.4748132911045104
+  rhythmicContrast: 0.2782039395533502
+purpose: []
