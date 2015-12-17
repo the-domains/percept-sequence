@@ -1,6 +1,6 @@
 name: Percept Sequence
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.97582
 typography_spectrum: 0.91586
 title: Percept Sequence
 cta:
@@ -23,7 +23,7 @@ color:
     - '#eac62c'
     - '#cf0814'
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.8125
   saturation: 0.8125
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
