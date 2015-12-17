@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A blog journey involving artificial intelligence, augmented reality, startups, healthcare, and the future.'
-datePublished: '2015-12-17T13:12:41.753Z'
-dateModified: '2015-12-17T13:12:35.172Z'
+datePublished: '2015-12-17T13:23:54.231Z'
+dateModified: '2015-12-17T13:23:51.856Z'
 title: "Hello, Brave New World: Welcome To 'Percept Sequence'\_"
 author: []
 sourcePath: _posts/2015-12-17-hello-brave-new-world-welcome-to-percept-sequence.md
