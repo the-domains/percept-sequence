@@ -4,7 +4,7 @@
         <description><![CDATA[Percept Sequence]]></description>
         <link>https://thegrid.ai/percept-sequence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 11:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 23:53:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/percept-sequence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, Brave New World: Welcome To 'Percept Sequence' ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 13:23:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CocoaPods - How To Install A Pod ]]></title>
+            <description><![CDATA[<article><h1>CocoaPods - How To Install A Pod </h1><p>Although the previous post before this one was "Smartphones Will Die", as mentioned in that article, it's still going to be a long long time before Apple's iOS or Google's Android will hit the grave. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4357315ddfca0460d0c1f811dfaf41fb25fcd5a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/percept-sequence/cocoapods-how-to-install-a-pod/index.html</link>
+            <guid isPermaLink="false">0a797ec1-af7b-4a88-8605-416f123db7ed</guid>
+            <pubDate>Thu, 07 Jan 2016 23:52:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Smartphones will die]]></title>
-            <description><![CDATA[<article><h1>Smartphones will die</h1><p>Smartphones will die. It's just a matter of time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7788cf77067883982381ed2a26a27fde408d1b57.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Smartphones will die</h1><p>Smartphones will die. It's just a matter of time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc3cc8c8f8ec54b3c8e73ca6edd081b2730e2e4d.png"></article>]]></description>
             <link>https://thegrid.ai/percept-sequence/smartphones-will-die/index.html</link>
             <guid isPermaLink="false">012ccf28-2afb-4dc4-a364-a83e15757a29</guid>
             <pubDate>Tue, 05 Jan 2016 11:59:13 GMT</pubDate>
