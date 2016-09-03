@@ -1,20 +1,4 @@
-name: Percept Sequence
-favicon: null
-layout_spectrum: 0.98936
 typography_spectrum: 0.91586
-title: Percept Sequence
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71524793-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fbf8c1'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.8125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.98936
+analytics:
+  google: UA-71524793-1
+  facebook: null
+  twitter: null
+name: Percept Sequence
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Percept Sequence
+description: 'AI, Medicine, Startups'
 purpose: []
